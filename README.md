@@ -52,10 +52,10 @@ Hello, I'm Sayed Mehedi Azim. I'm a computer science graduate.
   
 ## &#x1f4c8; GitHub Stats
 ---
-<a href="https://github.com/kazi-rayed-hossain">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazi-rayed-hossain&show_icons=true&theme=gotham" />
+<a href="https://github.com/MehediAzim">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehediAzim&show_icons=true&theme=gotham" />
 </a>
 
-<a href="https://github.com/kazi-rayed-hossain">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kazi-rayed-hossain&show_icons=true&theme=gotham" alt="Kazi Rayed Hossain" />
+<a href="https://github.com/MehediAzim">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=MehediAzim&show_icons=true&theme=gotham" alt="MehediAzim" />
 </a>
