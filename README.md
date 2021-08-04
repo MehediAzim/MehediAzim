@@ -9,7 +9,9 @@ I am a Computer Science graduate, currently working as a Machine Learning Engine
 Throughout my student life, I have worked on various projects and research work. I prefer to solve real-life problems in our daily life. Regardless of the way that Bioinformatics intrigues me, my research interest lies in various fields which are Image processing, Algorithm design, and Human-centered computing.
 
 In my leisure time, I write poetry and short stories for encircling the time. I love to play around with my harmonica. My favorite kinds of music usually revolve around rocks and melodies. I watch a handful of movies, biographies attract me the most. 
+<br />
 
+---
 - 💻 Currently working on
 
 :mailbox: Reach me out!
@@ -18,8 +20,8 @@ In my leisure time, I write poetry and short stories for encircling the time. I 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mehedi_Azim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayed-mehedi-azim-263b2b1a6)
 [![Instagram Badge](https://img.shields.io/badge/-@iam_rayed-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/iam_rayed) 
-[![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rayedhossain9@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@Rayed_248-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Rayed_248) 
+[![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mehediazimpiash@gmail.com )
+[![Twitter Badge](https://img.shields.io/badge/-@Mehedi_Azim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mehedi_azim)](https://twitter.com/mehedi_azim) 
 
 
 **My Reseach Interest**:
