@@ -19,7 +19,7 @@ In my leisure time, I write poetry and short stories for encircling the time. I 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mehedi_Azim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayed-mehedi-azim-263b2b1a6)
-[![Instagram Badge](https://img.shields.io/badge/-@iam_rayed-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/iam_rayed) 
+[![Researchgate Badge](https://img.shields.io/badge/-@sayed_mehedi_azim-e84393?style=flat&labelColor=e84393&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sayed-Mehedi-Azim) 
 [![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mehediazimpiash@gmail.com )
 [![Twitter Badge](https://img.shields.io/badge/-@Mehedi_Azim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mehedi_azim)](https://twitter.com/mehedi_azim) 
 
