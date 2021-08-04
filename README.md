@@ -5,8 +5,14 @@
 <br />
 
 ---
-Hello, I'm Sayed Mehedi Azim. I'm a computer science graduate.
+I am a Computer Science graduate, currently working as a Machine Learning Engineer at [Apurba Technologies](http://www.apurbatech.com/). I am experienced in creating advanced analytics strategies using data & intelligent machine learning algorithms with creative interfaces. 
 
+Throughout my student life, I have worked on various projects and research work. I prefer to solve real-life problems in our daily life. Regardless of the way that Bioinformatics intrigues me, my research interest lies in various fields which are Image processing, Algorithm design, and Human-centered computing.
+
+In my leisure time, I write poetry and short stories for encircling the time. I love to play around with my harmonica. My favorite kinds of music usually revolve around rocks and melodies. I watch a handful of movies, biographies attract me the most. 
+
+- 💻 Currently working on
+- 
 :mailbox: Reach me out!
 
 
