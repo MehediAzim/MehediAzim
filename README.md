@@ -30,6 +30,19 @@ In my leisure time, I write poetry and short stories for encircling the time. I 
 <br />
 
 ---
+## PUBLICATIONS
+
+<br />
+
+---
+<br />
+
+---
+## Ongoing REsearch
+
+<br />
+
+---
 **My Reseach Interest**:
 - Bioinformatics
 - Deep Learning
