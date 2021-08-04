@@ -13,6 +13,9 @@ In my leisure time, I write poetry and short stories for encircling the time. I 
 
 ---
 - 💻 Currently working on
+<br />
+
+---
 
 :mailbox: Reach me out!
 
@@ -24,11 +27,16 @@ In my leisure time, I write poetry and short stories for encircling the time. I 
 [![Twitter Badge](https://img.shields.io/badge/-@Mehedi_Azim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mehedi_azim)](https://twitter.com/mehedi_azim) 
 [![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mehediazimpiash@gmail.com )
 
+<br />
+
+---
 **My Reseach Interest**:
-- Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure
+- Bioinformatics
+- Deep Learning
+- Machine Learning
+- Image Processing
+- Human centered computing
+- Algorithms
 
  **I am open to**:
 
@@ -37,7 +45,9 @@ In my leisure time, I write poetry and short stories for encircling the time. I 
 - research internships and
 - available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
 
+<br />
 
+---
 
 ### Languages and Tools:
 
