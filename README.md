@@ -12,7 +12,7 @@ In my leisure time, I write poetry and short stories for encircling the time. I 
 <br />
 
 ---
-- 💻 Currently working on
+- 💻 Currently I am looking for PhD opportunity.
 <br />
 
 ---
@@ -26,7 +26,24 @@ In my leisure time, I write poetry and short stories for encircling the time. I 
 [![Researchgate Badge](https://img.shields.io/badge/-sayed_mehedi_azim-77a9fa?style=flat&labelColor=77a9fa&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=v85yID8AAAAJ&hl=en)
 [![Twitter Badge](https://img.shields.io/badge/-@Mehedi_Azim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mehedi_azim)](https://twitter.com/mehedi_azim) 
 [![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mehediazimpiash@gmail.com )
+<br />
 
+---
+### My Reseach Interest
+- Bioinformatics
+- Deep Learning
+- Machine Learning
+- Image Processing
+- Human centered computing
+- Algorithms
+<!-- 
+### I am open to
+
+- any collobration work,
+- machine learning projects(development or research),
+- research internships and
+- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
+-->
 <br />
 
 ---
@@ -48,35 +65,16 @@ In my leisure time, I write poetry and short stories for encircling the time. I 
 ## 📕 Ongoing Research
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- Sayed Mehedi Azim, Sajid Ahmed, Swakkhar Shatabda, Abdollah Iman Dehzangi. Antimicrobial Peptides Prediction Using Multi-head Convolutional Neural Network. 
+Developed a machine learning tool to accurately identify bacteriocins. Built multi-head CNN using TensorFlow.
+- Sayed Mehedi Azim,  Swakkhar Shatabda. PIR-Deep: A Tool for Proinflammatory Peptides Prediction from Image Representation of features using Hybrid Deep Learning Model.
+In this research, a hybrid model is introduced, which uses CNN and LSTM for predicting proinflammatory peptides from image representation of peptide sequences. Images were created from Binary profile features using SuperTML.
+
+- Sayed Mehedi Azim, Mazharul Islam Leon, Noor Hossain Sabab, Swakkhar Shatabda. White Blood Cell Sub-type Classification Using Deep Ensemble Model. 
+In this research, a deep ensemble learning method is introduced, which uses 5 different neural network models: ResNet-18, ResNet-34, ResNet-50, Densenet121, and Alexnet  for identification of four types of WBC (neutrophil,eosinophil,lymphocyte and monocyte)
+
 <!-- BLOG-POST-LIST:END -->
 
-
-<br />
-
----
-### My Reseach Interest
-- Bioinformatics
-- Deep Learning
-- Machine Learning
-- Image Processing
-- Human centered computing
-- Algorithms
-
- ### I am open to
-
-- any collobration work,
-- machine learning projects(development or research),
-- research internships and
-- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
-
-<br />
-
----
 
 ### Languages and Tools:
 
