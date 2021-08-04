@@ -1,4 +1,4 @@
-### Hi there, I'm [Durgesh Samariya](https://sites.google.com/view/sayedmehediazim) 👋
+### Hi there, I'm [Sayed Mehedi Azim](https://sites.google.com/view/sayedmehediazim) 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazi-rayed-hossain&label=Profile%20views&color=129e00&style=plastic" alt="kazi-rayed-hossain" /> </p>
 <img align="right" alt="Coding"  src="https://github.com/kazi-rayed-hossain/kazi-rayed-hossain/blob/f0299ca30f66e4c6aee5b4e3a26579c419963678/code.gif?raw=true" width="500" height="320" >
 
