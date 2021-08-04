@@ -33,16 +33,19 @@ In my leisure time, I write poetry and short stories for encircling the time. I 
 ## 📕 PUBLICATIONS
 
 ### Journal Publications
-
+- [Sayed Mehedi Azim, Md. Rakibul Haque, and Swakkhar Shatabda. OriC-ENS: A Sequence-Based Ensemble Classifier for Predicting Origin of Replication in S. cerevisiae.](https://www.sciencedirect.com/science/article/abs/pii/S1476927121000694) Computational Biology and Chemistry (2021),  IF : 2.877 
+- Sayed Mehedi Azim,  Alok Sharma, Swakkhar Shatabda, Abdollah Iman Dehzangi. DeepAmp: A Convolutional Neural Network based tool for predicting protein AMPylation sites from   binary profile representation (Under Review on Computational and Structural Biotechnology Journal, IF: 7.271)
 
 
 ### Conference Publication
+- [OriC-ENS: A Sequence-Based Ensemble Classifier for Predicting Origin of Replication in S. cerevisiae.](https://www.sciencedirect.com/journal/computational-biology-and-chemistry/special-issue/10DB2XDS64H) 19th International Conference On Bioinformatics (InCoB), 25 - 29 Nov 2020
+- [Predicting COVID-19 infections and deaths in Bangladesh using Machine Learning Algorithms.](https://ieeexplore.ieee.org/document/9396820) 2021 International Conference on Information and Communication Technology for Sustainable Development (ICICT4SD)
 
 
 <br />
 
 ---
-## 📕 Ongoing REsearch
+## 📕 Ongoing Research
 
 <!-- BLOG-POST-LIST:START -->
 - [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
