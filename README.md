@@ -11,11 +11,11 @@ Throughout my student life, I have worked on various projects and research work.
 In my leisure time, I write poetry and short stories for encircling the time. I love to play around with my harmonica. My favorite kinds of music usually revolve around rocks and melodies. I watch a handful of movies, biographies attract me the most. 
 
 - 💻 Currently working on
-- 
+
 :mailbox: Reach me out!
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-rayed_hossain-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayed-hossain/) 
+[![Linkedin Badge](https://img.shields.io/badge/-rayed_hossain-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https:https://www.linkedin.com/in/sayed-mehedi-azim-263b2b1a6/) 
 [![Instagram Badge](https://img.shields.io/badge/-@iam_rayed-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/iam_rayed) 
 [![Mail Badge](https://img.shields.io/badge/-Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:rayedhossain9@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@Rayed_248-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Rayed_248) 
