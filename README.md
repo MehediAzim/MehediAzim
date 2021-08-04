@@ -1,5 +1,5 @@
 ### Hi there, I'm [Sayed Mehedi Azim](https://sites.google.com/view/sayedmehediazim) 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kazi-rayed-hossain&label=Profile%20views&color=129e00&style=plastic" alt="kazi-rayed-hossain" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MehadiAzim&label=Profile%20views&color=129e00&style=plastic" alt="MehadiAzim" /> </p>
 
 <br />
 
