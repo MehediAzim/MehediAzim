@@ -9,17 +9,18 @@ I am a Computer Science graduate, currently working as a Machine Learning Engine
 Throughout my student life, I have worked on various projects and research work. I prefer to solve real-life problems in our daily life. Regardless of the way that Bioinformatics intrigues me, my research interest lies in various fields which are Image processing, Algorithm design, and Human-centered computing.
 
 In my leisure time, I write poetry and short stories for encircling the time. I love to play around with my harmonica. My favorite kinds of music usually revolve around rocks and melodies. I watch a handful of movies, biographies attract me the most. 
-<br />
+
+
+<!-- - 
+- <br />
+
+---💻 Currently I am looking for PhD opportunity.
+ <br />
 
 ---
-- 💻 Currently I am looking for PhD opportunity.
-<br />
-
----
+-->
 
 :mailbox: Reach me out!
-
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mehedi_Azim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayed-mehedi-azim-263b2b1a6)
 [![Researchgate Badge](https://img.shields.io/badge/-sayed_mehedi_azim-00caba?style=flat&labelColor=00caba&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sayed-Mehedi-Azim) 
@@ -29,7 +30,7 @@ In my leisure time, I write poetry and short stories for encircling the time. I 
 <br />
 
 ---
-### My Reseach Interest
+### Reseach Interest
 - Bioinformatics
 - Deep Learning
 - Machine Learning
