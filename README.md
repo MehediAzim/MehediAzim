@@ -31,9 +31,9 @@ In my leisure time, I write poetry and short stories for encircling the time. I 
 
 ---
 ### Reseach Interest
-- Bioinformatics
-- Deep Learning
+- Computational biology
 - Machine Learning
+- Deep Learning
 - Image Processing
 - Human centered computing
 - Algorithms
