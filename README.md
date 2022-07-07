@@ -52,7 +52,7 @@ In my leisure time, I write poetry and short stories for encircling the time. I 
 
 ### Journal Publications
 - [Sayed Mehedi Azim, Md. Rakibul Haque, and Swakkhar Shatabda. OriC-ENS: A Sequence-Based Ensemble Classifier for Predicting Origin of Replication in S. cerevisiae.](https://www.sciencedirect.com/science/article/abs/pii/S1476927121000694) Computational Biology and Chemistry (2021),  IF : 2.877 
-- Sayed Mehedi Azim,  Alok Sharma, Swakkhar Shatabda, Abdollah Iman Dehzangi. DeepAmp: A Convolutional Neural Network based tool for predicting protein AMPylation sites from   binary profile representation (Under Review on Computational and Structural Biotechnology Journal, IF: 7.271)
+- [Sayed Mehedi Azim,  Alok Sharma, Iman Noshadi, Swakkhar Shatabda, Abdollah Iman Dehzangi. DeepAmp: A Convolutional Neural Network based tool for predicting protein AMPylation sites from   binary profile representation] (https://www.nature.com/articles/s41598-022-15403-3) Scientific Reports (2022), IF: 4.38
 
 
 ### Conference Publication
