@@ -4,7 +4,7 @@
 <br />
 
 ---
-I am a Computer Science graduate, currently working as a Machine Learning Engineer at [Apurba Technologies](http://www.apurbatech.com/). I am experienced in creating advanced analytics strategies using data & intelligent machine learning algorithms with creative interfaces. 
+I am a Computer Science graduate, and Computational and Integrative Biology PhD Candidate at [Rutgers, The State University of New Jersey](https://www.rutgers.edu/). I am experienced in creating advanced analytics strategies using data & intelligent machine learning algorithms with creative interfaces. 
 
 Throughout my student life, I have worked on various projects and research work. I prefer to solve real-life problems in our daily life. Regardless of the way that Bioinformatics intrigues me, my research interest lies in various fields which are Image processing, Algorithm design, and Human-centered computing.
 
@@ -73,8 +73,6 @@ Developed a machine learning tool to accurately identify bacteriocins. Built mul
 - Sayed Mehedi Azim,  Swakkhar Shatabda. PIR-Deep: A Tool for Proinflammatory Peptides Prediction from Image Representation of features using Hybrid Deep Learning Model.
 In this research, a hybrid model is introduced, which uses CNN and LSTM for predicting proinflammatory peptides from image representation of peptide sequences. Images were created from Binary profile features using SuperTML.
 
-- Sayed Mehedi Azim, Mazharul Islam Leon, Noor Hossain Sabab, Swakkhar Shatabda. White Blood Cell Sub-type Classification Using Deep Ensemble Model. 
-In this research, a deep ensemble learning method is introduced, which uses 5 different neural network models: ResNet-18, ResNet-34, ResNet-50, Densenet121, and Alexnet  for identification of four types of WBC (neutrophil,eosinophil,lymphocyte and monocyte)
 
 <!-- BLOG-POST-LIST:END -->
 
